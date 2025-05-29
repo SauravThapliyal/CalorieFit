@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\css\\main.e6c13ad2.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.e6c13ad2.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\css\\main.e6c13ad2.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.e6c13ad2.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\453.8ab44547.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\453.8ab44547.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\453.8ab44547.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\453.8ab44547.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\main.658e9f3a.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.658e9f3a.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\main.658e9f3a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.658e9f3a.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\main.658e9f3a.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.658e9f3a.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\main.add370a5.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.add370a5.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\main.add370a5.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.add370a5.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\static\\js\\main.add370a5.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.add370a5.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\uploads\\exercises\\2_c9d90735-b2bd-492a-b91a-7fabffaa093e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\exercises\\2_c9d90735-b2bd-492a-b91a-7fabffaa093e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\uploads\\exercises\\6_1c5338ed-af35-4551-b666-ca4532f1f199.jpg",
+      "PackagePath": "staticwebassets\\uploads\\exercises\\6_1c5338ed-af35-4551-b666-ca4532f1f199.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\uploads\\exercises\\9_9a168fc5-8ccd-4cba-a15d-3033eeb911d5.png",
+      "PackagePath": "staticwebassets\\uploads\\exercises\\9_9a168fc5-8ccd-4cba-a15d-3033eeb911d5.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Desktop\\CalorieFit\\CalorieFit\\src\\CalorieManagement.API\\wwwroot\\uploads\\exercises\\9_ed765b8c-a738-479f-bdad-9b19e1aea7e4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\exercises\\9_ed765b8c-a738-479f-bdad-9b19e1aea7e4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CalorieManagement.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CalorieManagement.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CalorieManagement.API.props",
+      "PackagePath": "build\\CalorieManagement.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CalorieManagement.API.props",
+      "PackagePath": "buildMultiTargeting\\CalorieManagement.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CalorieManagement.API.props",
+      "PackagePath": "buildTransitive\\CalorieManagement.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
